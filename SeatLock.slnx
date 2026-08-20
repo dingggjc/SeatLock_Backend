@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SeatLock.Application/SeatLock.Application.csproj" />
+  <Project Path="SeatLock.Domain/SeatLock.Domain.csproj" />
+  <Project Path="SeatLock.Infrastructure/SeatLock.Infrastructure.csproj" />
+  <Project Path="SeatLock.Persistence/SeatLock.Persistence.csproj" />
+  <Project Path="SeatLock.WebApi/SeatLock.WebApi.csproj" />
+  <Project Path="SeatLock.Tests/SeatLock.Tests.csproj" />
+</Solution>
