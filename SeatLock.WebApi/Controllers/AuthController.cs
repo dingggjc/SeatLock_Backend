@@ -10,7 +10,7 @@ using SeatLock.Application.Common.Interfaces;
 namespace SeatLock.WebApi.Controllers;
 
 [ApiController]
-[Route("api/auth")]
+[Route("auth")]
 public sealed class AuthController(IMediator mediator, ICurrentUserService currentUser, ITenantContext tenantContext) : ControllerBase
 {
     [HttpPost("login")]
